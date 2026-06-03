@@ -188,7 +188,11 @@ codeforces_extension/
 
 1. **Clone or download** this repository:
    ```bash
-   git clone https://github.com/ayhanarashtasin/CF-Sorter.git
+   https://github.com/ayhanarashtasin/CF-Sorter.git
+   ```
+   Or if **forked**: (Use Fork Repo Link)
+   ```bash
+   https://github.com/your-username/CF-Sorter.git
    ```
 2. Open **Google Chrome** and navigate to `chrome://extensions/`.
 3. Enable **Developer mode** (toggle in the top-right corner).
